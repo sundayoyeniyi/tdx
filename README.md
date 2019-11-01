@@ -1,2 +1,2 @@
 # tdx
-The data explorer
+The Data Xplorer
