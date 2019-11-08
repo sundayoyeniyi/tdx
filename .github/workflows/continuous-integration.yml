@@ -7,10 +7,10 @@ jobs:
     name: markdown linting
     runs-on: ubuntu-latest
     steps:
-      - name: JDK setup        
+      - name: JDK setup
         uses: actions/setup-java@v1
         with:
           java-version: '1.11'
         id: JDKSetup
-      - name: Workflow starting point  
+      - name: Workflow starting point
         run: echo 'Workflow started ....'

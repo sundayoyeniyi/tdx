@@ -1,8 +1,8 @@
 # tdx
+
 The Data Xplorer
 
 ![](https://github.com/sundayoyeniyi/tdx/workflows/.github/workflows/TDX%20Deployment%20Workflow/badge.svg)
-
 
 ## Introduction
 
