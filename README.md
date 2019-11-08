@@ -2,7 +2,7 @@
 
 The Data Xplorer
 
-![build status](https://github.com/sundayoyeniyi/tdx/workflows/.github/workflows/TDX%20Deployment%20Workflow/badge.svg)
+![build status](https://github.com/sundayoyeniyi/tdx/workflows/workflows/TDX%20Deployment%20Workflow/badge.svg)
 
 ## Introduction
 
