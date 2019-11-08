@@ -1,5 +1,12 @@
 name: TDX Deployment Workflow
-on: [push, pull_request]
+
+on:
+  push:
+    branches: 
+      - master
+  pull_request:
+    branches: 
+      - master
 
 jobs:
   build:
@@ -10,5 +17,6 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: '1.11'
+        id: JDKSetup
       - name: Workflow starting point  
         run: echo 'Workflow started ....'
