@@ -1,0 +1,16 @@
+name: TDX Deployment Workflow
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: Build Automation
+    runs-on: ubuntu-latest
+    steps:
+      - name: JDK setup
+        uses: actions/setup-java@v1
+        with:
+          java-version: '1.11'
+        id: JDKSetup
+      - name: Workflow starting point
+        run: echo 'Workflow started ....'
