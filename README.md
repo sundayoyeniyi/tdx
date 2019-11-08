@@ -1,7 +1,7 @@
 # tdx
 The Data Xplorer
 
-![](https://github.com/sundayoyeniyi/tdx/workflows/.github/workflows/continuous-integration.yml/badge.svg)
+![](https://github.com/sundayoyeniyi/tdx/workflows/.github/workflows/TDX Workflow.yml/badge.svg)
 
 
 ## Introduction
