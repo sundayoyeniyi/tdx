@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 jobs:
   build:
-    name: markdown linting
+    name: Build Automation
     runs-on: ubuntu-latest
     steps:
       - name: JDK setup
