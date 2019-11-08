@@ -1,4 +1,4 @@
-name: TDX Workflow
+name: TDX Deployment Workflow
 
 on: [push, pull_request]
 
