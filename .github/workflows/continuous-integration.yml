@@ -6,10 +6,9 @@ jobs:
     name: markdown linting
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@latest
       - name: JDK setup        
         uses: actions/setup-java@v1
         with:
           java-version: '1.11'
-      - name: run gradle task lint  
-        run: ./gradlew markdownlint
+      - name: Workflow starting point  
+        run: echo 'Workflow started ....'
