@@ -1,6 +1,9 @@
 # tdx
 The Data Xplorer
 
+![](https://github.com/sundayoyeniyi/tdx/workflows/.github/workflows/continuous-integration.yml/badge.svg)
+
+
 ## Introduction
 
 ## Technology mention
