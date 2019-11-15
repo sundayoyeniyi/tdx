@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'tdx'
+
+include ':api'
