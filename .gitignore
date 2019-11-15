@@ -223,3 +223,6 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/git,sass,java,react,macos,maven,gradle,intellij,visualstudiocode
+
+#Removing IDEA's specific files from repo
+.idea/
