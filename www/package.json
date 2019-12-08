@@ -3,13 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
     "husky": "^3.1.0",
+    "jest-enzyme": "^7.1.2",
     "lint-staged": "^9.5.0",
     "node-sass": "^4.13.0",
     "prettier": "^1.19.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
+    "react-test-renderer": "^16.12.0",
     "source-map-explorer": "^2.1.1"
   },
   "scripts": {
@@ -44,5 +49,6 @@
       "prettier --write",
       "git add"
     ]
-  }
+  },
+  "proxy": "http://localhost:9400"
 }
